@@ -11,3 +11,7 @@ git add and git commit and lastly git push
 I forgot to git push. That caused me to panic a bit over my git skills. I still feel shaky about it but overall its alright. Ill practice it a but more. I should get a hang of it.
 
 HTML part was easy enough. I didn't struggle much with it. It was pretty straightforward. Im excited about making these websites look cool 
+
+To view the website, click here
+
+https://pijon28.github.io/odin-recipes/
