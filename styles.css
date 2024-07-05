@@ -1,0 +1,17 @@
+.head{
+    text-align: center;
+    font-weight: bold;
+    background-color: wheat;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.list{
+    font-weight: bold;
+    background-color: antiquewhite;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;  
+}
+
+.bod{
+    background-color: gray;
+}
