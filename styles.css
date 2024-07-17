@@ -1,17 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+
+
 .head{
     text-align: center;
     font-weight: bold;
-    background-color: wheat;
-    font-family: 'Times New Roman', Times, serif;
+    background-color: darkkhaki;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 48px;
+    padding: 20 20px;
+    border: 8px solid black;
+    margin: 10 10px;
 }
 
 .list{
     font-weight: bold;
-    background-color: antiquewhite;
-    font-size: 20px;
+    background-color: darkkhaki;
+    font-size: 48px;
     font-family: 'Times New Roman', Times, serif;  
+    text-align: center;
+    border: 8px solid black;
+    margin: auto;
 }
 
 .bod{
-    background-color: gray;
+    background-color: burlywood;
 }
