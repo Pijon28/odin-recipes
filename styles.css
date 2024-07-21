@@ -27,3 +27,7 @@
 .bod{
     background-color: burlywood;
 }
+
+ul{
+    list-style-type: none;
+}
